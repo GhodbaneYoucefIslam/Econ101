@@ -1,0 +1,8 @@
+# Ignore Chainlit-generated files
+.chainlit/
+
+# Ignore environment files
+.env
+
+# Ignore Chainlit documentation files
+chainlit.md

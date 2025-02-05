@@ -1,0 +1,65 @@
+[
+    {
+        "Topic": "About Economics",
+        "Documents": [
+            "Definition: Economics is a social science that studies the production, distribution, and consumption of goods and services. It is broadly divided into macroeconomics, which focuses on large-scale economic factors like GDP and inflation, and microeconomics, which examines individual and business-level economic decisions.",
+            "A social science: Although economics involves fancy-looking mathematical models and formulas, it is fundamentally a social science. It studies the behavior and interactions of economic agents consumers, businesses (which are run by people), and governments (which are led by human policymakers). Human decision-making, psychology, and social structures all play crucial roles in economic outcomes.",
+            "The central economic question: Economics primarily revolves around decision-making in the context of scarcity. Human wants and desires are unlimited, but the resources available to satisfy them are limited. Economics helps us allocate these scarce resources as efficiently as possible to maximize the satisfaction of our needs and wants.",
+            "What economics is not: Economics is not the study of the stock market. While the stock market is influenced by economic conditions, rising stock prices do not necessarily mean an economy is thriving or that living standards are improving. Economics is also distinct from business studies, marketing, and management, although these fields are related and influenced by economic principles."
+        ]
+    },
+    {
+        "Topic": "GDP",
+        "Documents": [
+            "Formal definition: Gross Domestic Product (GDP) is a monetary measure of the market value of all final goods and services produced within a specific period (usually a year) by a country or a group of countries.",
+            "Short definition: GDP represents the total economic output of a country within a year, reflecting the overall size and performance of its economy.",
+            "Formula: GDP = Consumer Spending + Government Spending + Investments + Net Exports (Exports - Imports).",
+            "GDP Per Capita: GDP divided by the population. This metric helps determine the average economic output per person and is often used to compare living standards across countries.",
+            "Nominal vs. Real GDP: Nominal GDP is measured at current market prices, while Real GDP is adjusted for inflation, providing a more accurate representation of economic growth over time."
+        ]
+    },
+    {
+        "Topic": "Inflation",
+        "Documents": [
+            "Definition: Inflation is the rate at which the general level of prices for goods and services rises over a given period of time, reducing the purchasing power of money.",
+            "Causes of Inflation: There are three main causes: (1) 'Demand-pull inflation' occurs when the demand for goods and services exceeds supply, leading to higher prices. (2) 'Cost-push inflation' happens when the costs of production (e.g., wages, raw materials) rise, forcing businesses to increase prices. (3) 'Inflation expectations' occur when consumers and businesses anticipate future price increases and adjust their behavior accordingly, accelerating inflation.",
+            "Measurement: Inflation is commonly measured using the Consumer Price Index (CPI), which tracks the price changes of a selected basket of essential goods and services, including housing, food, energy, and healthcare.",
+            "Inflation vs. Deflation: While high inflation erodes purchasing power and creates economic uncertainty, deflation (a sustained decrease in prices) can be even more harmful. Deflation discourages spending and investment, leading to lower production, job losses, and economic stagnation."
+        ]
+    },
+    {
+        "Topic": "Comparing Economies",
+        "Documents": [
+            "Method: Comparing economies solely based on GDP size is misleading. A larger GDP does not necessarily mean a richer country, as economic output must be considered in relation to the population size.",
+            "Key Metrics: More relevant metrics for comparing economies include: (1) GDP per capita, which accounts for population size; (2) GDP per capita adjusted for Purchasing Power Parity (PPP), which accounts for cost-of-living differences between countries; (3) the Human Development Index (HDI), which incorporates economic, educational, and health indicators.",
+            "1st, 2nd, and 3rd World Countries: These terms originated during the Cold War and referred to political alliances rather than economic conditions. The 'First World' included Western capitalist countries, the 'Second World' referred to the Soviet-led communist bloc, and the 'Third World' encompassed non-aligned nations. Today, these terms are often misused to describe economic development levels."
+        ]
+    },
+    {
+        "Topic": "Global Trade",
+        "Documents": [
+            "Exports: Goods and services that a country sells to other countries. These include tangible products like machinery and food, as well as intangible products such as intellectual property (patents and licenses), cultural exports (music, films), tourism revenue, and education for international students.",
+            "Imports: Goods and services that a country purchases from other countries. A country's trade balance is influenced by the relationship between its imports and exports.",
+            "Trade Balance: The difference between a country's exports and imports. A trade surplus occurs when exports exceed imports, while a trade deficit occurs when imports exceed exports.",
+            "Tariffs: Taxes imposed on imported goods by a government to protect domestic industries. Tariffs are aren't necessarily all-good or all bad. While tariffs can strengthen local producers by reducing foreign competition, they may also lead to inefficiencies, higher consumer prices, and retaliatory tariffs from other nations, ultimately harming the local economy."
+        ]
+    },
+    {
+        "Topic": "Monetary Policy",
+        "Documents": [
+            "Definition: Monetary policy refers to the actions taken by a central bank to control the money supply, interest rates, and inflation, with the goal of stabilizing the economy.",
+            "Interest Rates: Central banks adjust interest rates to influence economic activity. Lower interest rates encourage borrowing and investment, while higher rates help curb inflation by making borrowing more expensive.",
+            "Quantitative Easing (QE): A monetary policy tool where a central bank purchases financial assets, such as government bonds, to inject liquidity into the economy and stimulate growth.",
+            "Inflation Targeting: Many central banks set inflation targets (e.g., 2%) to ensure stable prices and economic predictability."
+        ]
+    },
+    {
+        "Topic": "Fiscal Policy",
+        "Documents": [
+            "Definition: Fiscal policy refers to government decisions on taxation and public spending to influence economic activity.",
+            "Expansionary Fiscal Policy: Involves increasing government spending or cutting taxes to stimulate economic growth, often used during recessions.",
+            "Contractionary Fiscal Policy: Involves reducing government spending or increasing taxes to slow down an overheating economy and control inflation.",
+            "Budget Deficit vs. Budget Surplus: A budget deficit occurs when government spending exceeds revenue, leading to borrowing. A budget surplus occurs when revenue exceeds spending."
+        ]
+    }
+]

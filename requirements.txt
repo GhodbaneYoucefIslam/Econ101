@@ -1,0 +1,6 @@
+chainlit
+langchain
+elasticsearch
+docker
+transformers
+sentence_transformers
